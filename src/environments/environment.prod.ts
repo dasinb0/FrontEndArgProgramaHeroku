@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  authURL: 'https://backkendargentinaprograma.herokuapp.com/',
+  authURL: 'https://backendargprograma-production-bdf6.up.railway.app/',
 };
